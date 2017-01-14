@@ -19,7 +19,7 @@ I did not see any mobile or tablet PSD's but still developed the site to be full
 
 ## Site Setup
 
-Download et-dev.tar.gz. All WP files are included in et-dev-challenge folder. To setup DB, import et-dev-challenge/code-challenge.sql.
+Download et-dev.tar.gz. All WP files are included in et-dev-challenge folder. To setup DB, create DB with name "dev-challenge" and import et-dev-challenge/code-challenge.sql.
 
 ## Author
 
